@@ -5,5 +5,5 @@
 This project aims to build a web application that includes a login feature, a database, and user authentication.
 
 ## Team Members:
-** Steven Nehemia Aritonang (001202300042)
-** Zaidan Mahfudz Azzam ()
+**Steven Nehemia Aritonang (001202300042)**
+**Zaidan Mahfudz Azzam ()**
